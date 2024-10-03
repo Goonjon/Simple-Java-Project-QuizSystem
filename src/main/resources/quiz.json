@@ -1,0 +1,242 @@
+[
+  {
+    "answerKey": 4,
+    "question": "Which is not part of system testing?",
+    "option3": "Load Testing",
+    "option4": "Unit Testing",
+    "option1": "Regression Testing",
+    "option2": "Sanity Testing"
+  },
+  {
+    "answerKey": 4,
+    "question": "Which is a white-box testing technique?",
+    "option3": "Decision table testing",
+    "option4": "Control Flow Testing",
+    "option1": "Equivalent Partitioning",
+    "option2": "Boundary value testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which of the following is not a non-functional testing type?",
+    "option3": "Functional Testing",
+    "option4": "Reliability Testing",
+    "option1": "Performance Testing",
+    "option2": "Usability Testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which testing method ensures that the software meets the users requirements?",
+    "option3": "Validation Testing",
+    "option4": "Load Testing",
+    "option1": "Unit Testing",
+    "option2": "Integration Testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "What type of testing is carried out without executing the code?",
+    "option3": "Static Testing",
+    "option4": "Dynamic Testing",
+    "option1": "Black-box Testing",
+    "option2": "White-box Testing"
+  },
+  {
+    "answerKey": 1,
+    "question": "What does the abbreviation SQA stand for?",
+    "option3": "Software Query Assurance",
+    "option4": "System Query Analysis",
+    "option1": "Software Quality Assurance",
+    "option2": "System Quality Automation"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which of the following is not an SQA activity?",
+    "option3": "Cost estimation",
+    "option4": "Auditing",
+    "option1": "Design control",
+    "option2": "Testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which of the following is not a black-box testing technique?",
+    "option3": "Data flow testing",
+    "option4": "Equivalence partitioning",
+    "option1": "Boundary value analysis",
+    "option2": "Decision table testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "In software testing, what does UAT stand for?",
+    "option3": "Usability Assessment Testing",
+    "option4": "Unit Application Testing",
+    "option1": "Unit Acceptance Testing",
+    "option2": "User Acceptance Testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is the main goal of regression testing?",
+    "option3": "To validate system performance",
+    "option4": "To check security vulnerabilities",
+    "option1": "To test new functionality",
+    "option2": "To ensure changes don't break existing features"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which of the following is a dynamic testing method?",
+    "option3": "Boundary value analysis",
+    "option4": "Syntax checking",
+    "option1": "Walkthroughs",
+    "option2": "Code review"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which type of testing is performed first?",
+    "option3": "Integration Testing",
+    "option4": "Acceptance Testing",
+    "option1": "System Testing",
+    "option2": "Unit Testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which of the following is not a principle of software testing?",
+    "option3": "Early testing is important",
+    "option4": "Defects cluster together",
+    "option1": "Testing shows the presence of defects",
+    "option2": "Exhaustive testing is possible"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which testing focuses on the interfaces and data flow between modules?",
+    "option3": "Integration Testing",
+    "option4": "Regression Testing",
+    "option1": "Unit Testing",
+    "option2": "System Testing"
+  },
+  {
+    "answerKey": 4,
+    "question": "Which of the following is not an agile testing method?",
+    "option3": "Acceptance test-driven development",
+    "option4": "Waterfall testing",
+    "option1": "Test-driven development",
+    "option2": "Exploratory testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "What type of testing involves validation of customer needs?",
+    "option3": "Acceptance Testing",
+    "option4": "Integration Testing",
+    "option1": "System Testing",
+    "option2": "Unit Testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which testing type is concerned with the security of the system?",
+    "option3": "Integration Testing",
+    "option4": "Acceptance Testing",
+    "option1": "Unit Testing",
+    "option2": "Security Testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which is the best time to perform regression testing?",
+    "option3": "During performance testing",
+    "option4": "After integration testing",
+    "option1": "Before release",
+    "option2": "After every code change"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is a key challenge in black-box testing?",
+    "option3": "Unpredictable inputs",
+    "option4": "Time-consuming setup",
+    "option1": "Lack of detailed requirements",
+    "option2": "Lack of code access"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which technique is used in white-box testing?",
+    "option3": "Code coverage",
+    "option4": "Use case testing",
+    "option1": "Decision table",
+    "option2": "Boundary value analysis"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is the primary purpose of SQA?",
+    "option3": "To minimize software costs",
+    "option4": "To enhance user interface design",
+    "option1": "To ensure the software is delivered on time",
+    "option2": "To prevent defects and ensure quality throughout the development process"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which of the following is a key SQA activity?",
+    "option3": "Defining project goals",
+    "option4": "User training",
+    "option1": "Code refactoring",
+    "option2": "Configuration management"
+  },
+  {
+    "answerKey": 2,
+    "question": "What role does SQA play in the software lifecycle?",
+    "option3": "Manages customer feedback",
+    "option4": "Ensures high software performance",
+    "option1": "Tracks the progress of coding",
+    "option2": "Identifies defects in design, code, and system"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which phase of the software development lifecycle does SQA integrate into?",
+    "option3": "Every phase",
+    "option4": "Deployment",
+    "option1": "Requirements gathering",
+    "option2": "Only in testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is a common SQA documentation tool?",
+    "option3": "IDE (Integrated Development Environment)",
+    "option4": "Cloud hosting services",
+    "option1": "Test automation framework",
+    "option2": "Defect tracking tool"
+  },
+  {
+    "answerKey": 2,
+    "question": "How does SQA differ from testing?",
+    "option3": "SQA involves only the project management team",
+    "option4": "SQA deals only with system-level quality",
+    "option1": "SQA is done before development starts, testing is done after development finishes",
+    "option2": "SQA focuses on prevention, while testing focuses on defect detection"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which of the following is part of an SQA plan?",
+    "option3": "Marketing strategies",
+    "option4": "Software installation guidelines",
+    "option1": "Project budget",
+    "option2": "Defect reporting procedures"
+  },
+  {
+    "answerKey": 2,
+    "question": "What does a formal SQA review typically focus on?",
+    "option3": "Usability of the software",
+    "option4": "Customer feedback",
+    "option1": "System's runtime performance",
+    "option2": "Software process and product quality"
+  },
+  {
+    "answerKey": 1,
+    "question": "Acceptance criteria is written in which phase?",
+    "option3": "Test Execution",
+    "option4": "Requirement Analysis",
+    "option1": "Test Analysis",
+    "option2": "Test Design"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which is called the confidence testing?",
+    "option3": "Smoke Testing",
+    "option4": "Sanity Testing",
+    "option1": "Regression Testing",
+    "option2": "Integration Testing"
+  }
+]
