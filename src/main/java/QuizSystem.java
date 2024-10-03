@@ -42,7 +42,7 @@ public class QuizSystem {
                             System.out.println("System:> Welcome admin! Please create new questions in the question bank.");
                             adminFunctionality();
                         } else if (role.equals("student")) {
-                            System.out.println("System:> Welcome " + username + " to the quiz! We will throw you 10 questions. Are you ready? Press 's' to start.");
+                            System.out.println("System:> Welcome " + username + " to the quiz! We will throw you 10 questions. Each MCQ mark is 1 and no negative marking. Are you ready? Press 's' to start.");
                             if (scanner.nextLine().equals("s")) {
                                 studentFunctionality();
                             }
