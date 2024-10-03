@@ -18,7 +18,7 @@
 7. Log in as admin to add quiz questions and after adding the questions login as a student to take the quiz.
 8. Follow the prompts to interact with the quiz system.
 
-### Video Record of Java-QuizSystem
+### Video Record of Java-Project-QuizSystem
 ### [For Admin](https://drive.google.com/file/d/1Tn9h7suK_dDdwdP7hsZ_zorgpD9d88IM/view?usp=sharing) 
 ### [For Student](https://drive.google.com/file/d/1_gCWszBS3ez3KZyR-GW7U4ZU7pdROrB0/view?usp=sharing) 
 
